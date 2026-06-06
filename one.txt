@@ -1,7 +1,2 @@
 one
 1
-hello
-new line
-second line
-yyy
-hjkl;
